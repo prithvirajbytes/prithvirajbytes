@@ -1,4 +1,4 @@
-##### Hi, I'm Prithviraj:
+##### Hello World , I'm Prithviraj:
 
 - 🎓Computer Science undergrad from GNIT ,Kolkata
 - :speech_balloon: Ask me about accessibility, full-stack, web, or literally anything!
