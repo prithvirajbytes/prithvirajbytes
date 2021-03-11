@@ -1,5 +1,7 @@
 ##### Hello World , I'm Prithviraj:
 
+https://user-images.githubusercontent.com/59976277/109552120-6da56a00-7af7-11eb-8c03-1ef76ad26fd1.gif
+
 - 🎓Computer Science undergrad from GNIT ,Kolkata
 - :speech_balloon: Ask me about accessibility, full-stack, web, or literally anything!
 - :mailbox: You can reach me with the links below
