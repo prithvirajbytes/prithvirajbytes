@@ -21,6 +21,6 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
  
-## Welcome to my place of passion.
+# Welcome to my place of passion.
 
 
